@@ -3,5 +3,5 @@
 <?php get_footer();?>
 
 <?php if(is_dev()):?>
-<H1>INDEX.php</H1>
+<H1>HOME.php</H1>
 <?php endif;?>
