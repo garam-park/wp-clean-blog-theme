@@ -4,3 +4,14 @@
   email : netgarng88@gmail.com
   Version: 0.1
 */
+
+/*
+	 the_content() 로 부르는 이미지 등을 정렬 하는 css
+	 워드프레스에서 하는 것을 레커맨드함
+*/
+img.alignright {float:right; margin:0 0 1em 1em }
+img.alignleft {float:left; margin:0 1em 1em 0 }
+img.aligncenter {display: block; margin-left: auto; margin-right: auto }
+a img.alignright {float:right; margin:0 0 1em 1em }
+a img.alignleft {float:left; margin:0 1em 1em 0 }
+a img.aligncenter {display: block; margin-left: auto; margin-right: auto }
